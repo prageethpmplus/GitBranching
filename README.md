@@ -10,4 +10,4 @@
 
 # Create branch locally first and push it to remote.
 
-
+`git push --set-upstream origin <local-branch-name>`
